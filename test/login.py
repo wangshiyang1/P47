@@ -5,3 +5,5 @@ num = 40
 num2 = 60
 
 pxh ❤ wsy
+
+wsy ❤ pxh
